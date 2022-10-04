@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cucumber-wdio.iml" filepath="$PROJECT_DIR$/.idea/cucumber-wdio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/raphaTest.iml" filepath="$PROJECT_DIR$/.idea/raphaTest.iml" />
     </modules>
   </component>
 </project>
